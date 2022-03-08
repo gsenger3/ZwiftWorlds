@@ -1,0 +1,14 @@
+
+ZWIFT WORLDS...
+
+In ~/Documents/Zwift/prefs.xml file add <WORLD>#ofWorld</WORLD> as direct descendant of <ZWIFT>
+
+To ride Watopia, add: <WORLD>1</WORLD>
+To ride Richmond, add: <WORLD>2</WORLD>
+To ride London, add:<WORLD>3</WORLD>
+To ride New York, add:<WORLD>4</WORLD>
+To ride Innsbruck, add: <WORLD>5</WORLD>
+To ride Yorkshire, add: <WORLD>7</WORLD>
+To ride Makuri Islands, add <WORLD>9</WORLD>
+To ride France, add: <WORLD>10</WORLD>
+To ride Paris, add: <WORLD>11</WORLD>
